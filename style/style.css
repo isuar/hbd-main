@@ -240,6 +240,9 @@ canvas {
   font-weight: lighter;
   font-size: 2rem;
   margin: 10px 0 0;
+  padding: 0 15px; /* Add some padding on the sides */
+  max-width: 100%; /* Ensure it doesn't exceed container width */
+  word-wrap: break-word; /* Allow words to break to new line */
 }
 
 .nine p {
@@ -280,6 +283,29 @@ canvas {
     left: 39%;
   }
 }
+
+/* Media queries for responsive font sizing */
+@media screen and (max-width: 768px) {
+  .wish h5 {
+    font-size: 1.6rem; /* Smaller font on medium screens */
+  }
+  
+  .wish-hbd {
+    font-size: 2.5em; /* Slightly smaller heading */
+  }
+}
+
+@media screen and (max-width: 480px) {
+  .wish h5 {
+    font-size: 1.2rem; /* Even smaller font on mobile screens */
+    padding: 0 10px;
+  }
+  
+  .wish-hbd {
+    font-size: 2em; /* Much smaller heading on mobile */
+  }
+}
+
 
 @media screen and (max-width: 500px) {
   .container {
