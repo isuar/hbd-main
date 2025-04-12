@@ -1,0 +1,29 @@
+{
+  "greeting": "Ohai!",
+  "name": "Wahyu",
+  "greetingText": "I am lucky to have met the most beautiful person like you.",
+  "wishText": "May your special day be as wonderful as you are, filled with all the happiness you deserve, and may this next year bring you even more dreams fulfilled, unexpected delights, and the knowledge that you are deeply cherished exactly as you are.",
+  "imagePath": "img/wahyu.jpg",
+  "text1": "Today is your birthday :D",
+  "textInChatBox": "Selamat ulang tahun, sayangku! :* Semoga hari ini menjadi hari yang paling bahagia dalam hidupmu. Semoga semua impianmu terwujud dan kamu selalu dikelilingi oleh orang-orang yang mencintaimu. Aku sangat mencintaimu, sayangku! :*",
+  "sendButtonLabel": "Send",
+  "text2": "That's what I was going to do..",
+  "text3": "But then I stopped..",
+  "text4": "I understand that I have to do something",
+  "text4Adjective": "special",
+  "text5Entry": "Because...",
+  "text5Content": "You are the most special person to me.",
+  "smiley": ":)",
+  "bigTextPart1": "So",
+  "wishHeading": "Happy Birthday Wahyu!!",
+  "outroText": "I hope you like it",
+  "replayText": "If you liked it, you can watch it again by simply clicking here...",
+  "outroSmiley": ":)",
+  "music": "./music/music.mp3",
+  "fonts": [
+    {
+      "name": "Battambang",
+      "path": "https://fonts.googleapis.com/css?family=Battambang&display=swap"
+    }
+  ]
+}
